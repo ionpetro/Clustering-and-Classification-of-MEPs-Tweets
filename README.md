@@ -11,6 +11,8 @@ This assignment is based on an original assignment by Ioannis Pavlopoulos (postd
 > Athens University of Economics and Business <br />
 > ionpetro@gmail.com
 
+## Read the notebook [here](https://nbviewer.jupyter.org/github/ionpetro/Clustering-and-Classification-of-MEPs-Tweets/blob/master/src/European%20Parliament%20Twitter%20activities%20MEP%201.0.ipynb)
+
 ## WordCloud
 
 We drew wordclouds for **EFDD** and **S&D**
